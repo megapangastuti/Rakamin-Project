@@ -35,13 +35,15 @@ Akan dilakukan proses analisa berdasarkan data pada kolom `TotalWorkingYears`, `
 3. Karyawan yang lebih sering melakukan business travel memiliki Attrition Rate yang lebih tinggi.
 
 ### Who: Siapa saja karyawan yang meninggalkan perusahaan?
+Berdasarkan grafik di atas dapat disimpulkan bahwa :
 1. Karyawan dengan rentang umur di bawah 40 tahun cenderung memiliki attrition rate yang lebih tinggi. Kemudian, karyawan dengan rentang umur sekitar 25 - 35 tahun memiliki attrition rate yang paling tinggi.
 2. Karyawan pria cenderung memiliki attrition rate yang hampir sama dengan karyawan wanita.
-Karyawan yang memiliki Job Level yang lebih rendah memiliki attrition rate yang lebih tinggi. Kemudian, karyawan yang memiliki Job Level 1 merupakan tipe karyawan dengan attrition rate paling tinggi.
-3. Karyawan dengan marital status belum menikah (single) cenderung memiliki attrition rate yang lebih tinggi dibandingkan karyawan  yang sudah menikah dan yang berstatus sudah bercerai. Selain itu, karyawan dengan marital status divorced memiliki attrition rate paling rendah atau merupakan tipe karyawan yang paling banyak bertahan di perusahaan.
-4. Karyawan yang memiliki educational level yang lebih rendah cenderung memiliki attrition rate yang lebih tinggi. Kemudian, karyawan dengan yang memiliki educational level 1 merupakan tipe karyawan yang memiliki attrition rate paling tinggi.
-5. Karyawan yang memiliki latar belakang pendidikan di bidang Human Resources, Technical Degree, dan Marketing merupakan 3 golongan karyawan yang memiliki attrition rate paling tinggi.
-6. Karyawan yang menjabat sebagai Sales Representative, Laboratory Technician, dan Human Resources merupakan 3 golongan karyawan yang memiliki attrition rate paling tinggi.
+3. Karyawan yang memiliki Job Level yang lebih rendah memiliki attrition rate yang lebih tinggi. Kemudian, karyawan yang memiliki Job Level 1 merupakan tipe karyawan dengan attrition rate paling tinggi.
+4. Karyawan dengan marital status belum menikah (single) cenderung memiliki attrition rate yang lebih tinggi dibandingkan karyawan  yang sudah menikah dan yang berstatus sudah bercerai. Selain itu, karyawan dengan marital status divorced memiliki attrition rate paling rendah atau merupakan tipe karyawan yang paling banyak bertahan di perusahaan.
+5. Karyawan yang memiliki educational level yang lebih rendah cenderung memiliki attrition rate yang lebih tinggi. Kemudian, karyawan dengan yang memiliki educational level 1 merupakan tipe karyawan yang memiliki attrition rate paling tinggi.
+6. Karyawan yang memiliki latar belakang pendidikan di bidang Human Resources, Technical Degree, dan Marketing merupakan 3 golongan karyawan yang memiliki attrition rate paling tinggi.
+7. Karyawan yang menjabat sebagai Sales Representative, Laboratory Technician, dan Human Resources merupakan 3 golongan karyawan yang memiliki attrition rate paling tinggi.
+
 
 ### Why: Alasan apa yang membuat karyawan yang meninggalkan perusahaan?
 1. Karyawan dengan Monthly Income sekitar 1800 - 3200 merupakan tipe karyawan yang memiliki Attrition Rate yang paling tinggi. Kemudian karyawan dengan Monthly Income sekitar 13000 - 19000 merupakan tipe karyawan yang memiliki Attrition Rate yang paling rendah.
