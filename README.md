@@ -47,8 +47,9 @@ Berdasarkan grafik di atas dapat disimpulkan bahwa :
 
 ### Why: Alasan apa yang membuat karyawan yang meninggalkan perusahaan?
 1. Karyawan dengan Monthly Income sekitar 1800 - 3200 merupakan tipe karyawan yang memiliki Attrition Rate yang paling tinggi. Kemudian karyawan dengan Monthly Income sekitar 13000 - 19000 merupakan tipe karyawan yang memiliki Attrition Rate yang paling rendah.
-2. Karyawan yang memiliki tingkat Environment Satisfaction yang lebih rendah cenderung memiliki Attrition Rate yang lebih tinggi. Kemudian, didapatkan bahwa karyawan yang memiliki Environment Satisfaction bernilai 1 merupakan tipe karyawan yang memiliki Attrition Rate yang paling tinggi.
-3. Karyawan yang memiliki tingkat Job Satisfaction yang lebih rendah cenderung memiliki Attrition Rate yang lebih tinggi. Kemudian, didapatkan bahwa karyawan yang memiliki Job Satisfaction bernilai 1 merupakan tipe karyawan yang memiliki Attrition Rate yang paling tinggi.
+2. Karyawan yang memiliki jabatan sebagai Manager memiliki Monthly Income paling tinggi sedangkan karyawan dengan jabatan sebagai Sales Representative memiliki Monthly Income paling rendah.
+3. Karyawan yang memiliki tingkat Environment Satisfaction yang lebih rendah cenderung memiliki Attrition Rate yang lebih tinggi. Kemudian, didapatkan bahwa karyawan yang memiliki Environment Satisfaction bernilai 1 merupakan tipe karyawan yang memiliki Attrition Rate yang paling tinggi.
+4. Karyawan yang memiliki tingkat Job Satisfaction yang lebih rendah cenderung memiliki Attrition Rate yang lebih tinggi. Kemudian, didapatkan bahwa karyawan yang memiliki Job Satisfaction bernilai 1 merupakan tipe karyawan yang memiliki Attrition Rate yang paling tinggi.
 
 ### Where: Dari mana sajakah karyawan yang meninggalkan perusahaan?
 Karyawan yang bekerja pada Departemen Sales memiliki Attrition Rate yang paling tinggi dibandingkan dengan departemen lainnya.
