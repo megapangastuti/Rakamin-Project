@@ -1,3 +1,5 @@
+Ini adalah hasil pengerjaan HW SQL part 2
+
 --soal 1
 select nama, email, bulan_lahir, tanggal_registrasi
 from rakamin_customer
