@@ -1,0 +1,67 @@
+--soal 1
+select distinct kota
+from rakamin_customer_address
+
+--soal 2
+select *
+from rakamin_customer_address
+order by id_pelanggan desc
+limit 10
+
+--soal 3
+select *
+from rakamin_customer
+where penipu = true
+
+--soal 4
+select *
+from rakamin_order
+where lower(metode_bayar) = 'shopeepay'
+order by kuantitas desc
+limit 1
+
+--soal 5
+create table if not exists
+	rakamin_customer_address_tangerang as
+SELECT *
+FROM
+	rakamin_customer_address
+where
+	lower(kota) ='tangerang';
+  
+select *
+from
+	rakamin_customer_address_tangerang;
+
+--soal 6
+update
+	rakamin_customer_address_tangerang
+set
+	provinsi ='Banten'
+where
+	provinsi = 'Jawa Barat';
+
+update
+	rakamin_customer_address_tangerang
+set
+	alamat ='Karawaci'
+where
+	id_pelanggan = 10;
+	
+select *
+from
+rakamin_customer_address_tangerang;
+
+--soal 7
+insert into rakamin_customer_address_tangerang (id_alamat, id_pelanggan, alamat)
+values (101, 70, 'Ciledug');
+
+select *
+from rakamin_customer_address_tangerang;
+
+--soal 8
+delete from rakamin_customer_address_tangerang
+where id_alamat = 54;
+
+select *
+from rakamin_customer_address_tangerang; 
